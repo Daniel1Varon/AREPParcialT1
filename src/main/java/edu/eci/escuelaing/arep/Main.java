@@ -60,7 +60,7 @@ public class Main {
                 + "<html>"
                 + "<body>"
                 + "<h1>Calculadora Trigonométrica</h1>"
-                + "<form action=\"/results\">"
+                + "<form action=\"/res\">"
                 + "  Number:<br>"
                 + "  <input type=\"text\" name=\"num\" value=\"\">"
                 + "  <br><br>"
@@ -71,7 +71,7 @@ public class Main {
                 + "<option value=\"tan\">Tangente</option>"
                 + "</select>"
                 + "<br/>"
-                + "<input type=\"submit\" value=\"Submit\">"
+                + "<input type=\"submit\" value=\"Enviar\">"
                 + "</form>"
                 + "</body>"
                 + "</html>";
