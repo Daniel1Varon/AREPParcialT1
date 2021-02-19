@@ -39,8 +39,10 @@ public class Main {
                 + "<body>"
                 + "<h1>Calculadora Trigonométrica</h1>"
                 + "<h4>Función Trigonométrica</h>"
+                + "<br/>"
                 + json.get("operación")
                 + "<h4>Valor</h4>"
+                + "<br/>"
                 + json.get("valor")
                 + "<br/>"
                 + "</body>"
